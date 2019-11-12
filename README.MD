@@ -1,4 +1,4 @@
 Javascript implementation of Otsu Thresholding
 
-To run type:
+**To Run Type:**  
 node app.js
